@@ -9,13 +9,7 @@
 ### goals to achieve
 [X] create a github.
 
-[X] try to learn java study for a test.
-
-[ ]i has a java test day 03/01/2022.
-
-[ ]pass in this test.
-
-[ ]give my best to learn better and better.
+[X] try to learn java study
 
 ### teste de painel com MB
 ponto|nome|razão
