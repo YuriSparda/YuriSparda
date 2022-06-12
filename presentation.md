@@ -8,9 +8,13 @@
 
 ### goals to achieve
 [X] create a github.
+
 [X] try to learn java study.
+
 [X] Entrar no entra 21.
+
 [ ] Aprender o que considero bom no java.
+
 [ ] Aprender FrontEnd de forma mais profissional e fluida.
 
 
