@@ -12,10 +12,10 @@
 [X] try to learn java study
 
 ### teste de painel com MB
-ponto|nome|razão
+linguagem|tempo|pontuação pessoal
 ---|---|---
-100|corvinal|inteligencia
--5000|grifinoria|modinha
+Java|4 meses|34
+ingles|4 anos|45
 <end>
 
 <!---
