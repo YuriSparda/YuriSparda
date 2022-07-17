@@ -24,10 +24,3 @@ linguagem|tempo|pontuação pessoal
 Java|4 meses|34
 ingles|4 anos|45
 <end>
-
-<!---
-YuriSparda/YuriSparda is a ✨ special ✨ repository because its `presentation.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![github-user-contribution](https://user-images.githubusercontent.com/95309127/178049250-26091ae7-174f-4253-bfed-8926fb02429b.svg)
