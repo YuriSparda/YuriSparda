@@ -13,7 +13,7 @@
 
 [X] Entrar no entra 21.
 
-[ ] Aprender o que considero bom no java.
+[X] Aprender o que considero bom no java.
 
 [ ] Aprender FrontEnd de forma mais profissional e fluida.
 
