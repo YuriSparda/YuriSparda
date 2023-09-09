@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World;My+name+is+yuri;I'm+here+to+learn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World;My+name+is+yuri;I'm+here+to+learn; Right+now+I'm+working+on+T-Systems;Fell+free+to+send+me+a+challenge)](https://git.io/typing-svg)
 ---
 - 👋 Hi, I’m **@YuriSparda**.
 - 👀 I’m interested in learn everything about Dev and Hardware.
