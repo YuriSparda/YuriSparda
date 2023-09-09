@@ -23,7 +23,7 @@
 
 [X] Aprender e evoluir nas APIs de Java.
 
-[ ] Aprender e evoluir nas APIs para FrontEnd.
+[_] Aprender e evoluir nas APIs para FrontEnd.
 
 
 ### teste de painel com MB
