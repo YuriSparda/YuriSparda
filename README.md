@@ -15,12 +15,21 @@
 
 [X] Aprender o que considero bom no java.
 
-[ ] Aprender FrontEnd de forma mais profissional e fluida.
+[X] Aprender FrontEnd conceitos e conexão.
+
+[X] Finalizar o entra 21.
+
+[X] Conseguir o primeiro emprego como dev Junior.
+
+[X] Aprender e evoluir nas APIs de Java.
+
+[ ] Aprender e evoluir nas APIs para FrontEnd.
 
 
 ### teste de painel com MB
 linguagem|tempo|pontuação pessoal
 ---|---|---
-Java|4 meses|34
-ingles|4 anos|45
+Java|18 meses|40/100
+ingles|4 anos|50/100
+Angular.TS|4 meses|20/100
 <end>
